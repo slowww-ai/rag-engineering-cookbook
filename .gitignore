@@ -42,6 +42,7 @@ Thumbs.db
 # Data and models (typically large; commit deliberately if needed)
 data/
 *.pdf
+!sample_pdfs/*.pdf
 *.parquet
 *.csv
 *.tsv
