@@ -43,6 +43,9 @@ Thumbs.db
 data/
 *.pdf
 !sample_pdfs/*.pdf
+
+# Third-party clones (users clone these themselves per notebook instructions)
+vectorless/PageIndex/
 *.parquet
 *.csv
 *.tsv
